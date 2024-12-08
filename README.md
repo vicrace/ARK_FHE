@@ -63,3 +63,4 @@ ARK enhances Fully Homomorphic Encryption (FHE)-based deep learning inference by
 
 **NOTE**: ConvFHE baseline evaluation requires up to 100GB of memory.
 
+[1] D. Kim and C. Guyot, “Optimized privacy-preserving cnn inference with fully homomorphic encryption,” IEEE Transactions on Information Forensics and Security, vol. 18, pp. 2175–2187, 2023. doi:10.1109/TIFS.2023.3263631
